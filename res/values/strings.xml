@@ -72,57 +72,37 @@
     <!-- Actions -->
     <string name="action_screenshot_name">Take screenshot</string>
     <string name="action_assistant_name">Access your digital assistant</string>
-    <string name="action_silence_call_name">Silence an incoming call</string>
     <string name="action_media_name">Play or pause media</string>
     <string name="action_overview_name">See recent apps</string>
     <string name="action_notifications_name">Show notifications</string>
-    <string name="action_camera_name">Open camera</string>
-    <string name="action_power_menu_name">Open power menu</string>
-    <string name="action_mute_name">Mute calls and notifications</string>
     <string name="action_flashlight_name">Toggle flashlight</string>
-    <string name="action_screen_name">Turn screen on or off</string>
     <string name="action_launch_name">Open app</string>
 
     <string name="action_screenshot_value">screenshot</string>
     <string name="action_assistant_value">assistant</string>
-    <string name="action_silence_call_value">silence_call</string>
     <string name="action_media_value">media</string>
     <string name="action_overview_value">overview</string>
     <string name="action_notifications_value">notifications</string>
-    <string name="action_camera_value">camera</string>
-    <string name="action_power_menu_value">power_menu</string>
-    <string name="action_mute_value">mute</string>
     <string name="action_flashlight_value">flashlight</string>
-    <string name="action_screen_value">screen</string>
     <string name="action_launch_value">launch</string>
 
     <!-- Actions meta -->
     <string-array name="action_values" translatable="false">
         <item>@string/action_screenshot_value</item>
         <item>@string/action_assistant_value</item>
-        <item>@string/action_silence_call_value</item>
         <item>@string/action_media_value</item>
         <item>@string/action_overview_value</item>
         <item>@string/action_notifications_value</item>
-        <item>@string/action_camera_value</item>
-        <item>@string/action_power_menu_value</item>
-        <item>@string/action_mute_value</item>
         <item>@string/action_flashlight_value</item>
-        <item>@string/action_screen_value</item>
         <item>@string/action_launch_value</item>
     </string-array>
     <string-array name="action_names" translatable="false">
         <item>@string/action_screenshot_name</item>
         <item>@string/action_assistant_name</item>
-        <item>@string/action_silence_call_name</item>
         <item>@string/action_media_name</item>
         <item>@string/action_overview_name</item>
         <item>@string/action_notifications_name</item>
-        <item>@string/action_camera_name</item>
-        <item>@string/action_power_menu_name</item>
-        <item>@string/action_mute_name</item>
         <item>@string/action_flashlight_name</item>
-        <item>@string/action_screen_name</item>
         <item>@string/action_launch_name</item>
     </string-array>
 
